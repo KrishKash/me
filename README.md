@@ -31,8 +31,8 @@ git --version
 #### To Fork the repo click on the fork button at the top right of the page. Once the repo is forked open your terminal and perform the following commands
 
 ```
-git clone hhttps://github.com/<YOUR GITHUB USERNAME>/kmk-portfolio.git
-cd kmk-portfolio
+git clone https://github.com/KrishKash/me.git
+cd me
 ```
 
 ### Install packages from the root directory
